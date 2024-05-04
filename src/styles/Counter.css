@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.counter
+{
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.output
+{
+    color: yellow;
+    margin-bottom: 30px;
+    font-size: 2rem;
+}
